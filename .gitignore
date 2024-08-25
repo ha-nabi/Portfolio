@@ -1,0 +1,12 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+/.webber
+/.webber/dev
+/.webber/release
+/.webber/entrypoint/dev/.ssl
+/.webber/node_modules
+/.webber/package*
+/.swiftpm
