@@ -6,12 +6,9 @@ Swift를 사용한 포트폴리오 웹사이트
 
 <br>
 
-## 🔗 Links
-
-<br>
-
 ## 📸 Screenshot
 
+<img width="2441" alt="스크린샷 2024-08-26 오전 6 08 56" src="https://github.com/user-attachments/assets/575876e5-e501-451f-ad75-fbb96c761f6f">
 
 <br>
 
