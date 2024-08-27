@@ -46,7 +46,7 @@ extension Project {
 
 private let Portfolio = Project(
     id: "Portfolio",
-    name: "Portfoilo Website",
+    name: "Portfolio Website",
     links: [
         RelatedLink(name: "Github", url: "https://github.com/ha-nabi/Portfolio"),
         RelatedLink(name: "WebSite", url: "")
